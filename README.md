@@ -4,8 +4,8 @@
 - Proxy
 - Multi threading
 ## Installasi 
--     git clone https://github.com/licht141/GrassNode/
-      cd GrassNode
+-     https://github.com/moonalyka/grass.git
+      cd grass
 -     pip3 install -r requirements.txt
 ## Config
 Pada configs.json isi user_id dengan user_id kalian
