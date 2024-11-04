@@ -6,7 +6,7 @@ https://app.getgrass.io/register/?referralCode=YR7IuAZ9RYRAQoX
 - Proxy
 - Multi threading
 ## Installasi 
--     https://github.com/moonalyka/grass.git
+-     git clone https://github.com/moonalyka/grass.git
       cd grass
 -     pip3 install -r requirements.txt
 ## Config
