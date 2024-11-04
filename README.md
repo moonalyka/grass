@@ -1,5 +1,7 @@
 ## Grass Season 2
 - Dibuat untuk kalian agar dapat mining grass dengan mudah
+## Regist Grass
+https://app.getgrass.io/register/?referralCode=YR7IuAZ9RYRAQoX
 ## Fitur
 - Proxy
 - Multi threading
