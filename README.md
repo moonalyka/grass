@@ -8,7 +8,7 @@ https://app.getgrass.io/register/?referralCode=YR7IuAZ9RYRAQoX
 ## Installasi 
 -     git clone https://github.com/moonalyka/grass.git
       cd grass
--     pip3 install -r requirements.txt
+-     pip install -r requirements.txt
 ## Config
 Pada configs.json isi user_id dengan user_id kalian
 Caranya dengan membuka console pada dashboard grass. paste kode di bawah ini
